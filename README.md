@@ -2,11 +2,15 @@ Booking_Api
 
 Tech Stack Used:
 
+
 Backend: Node.js, Express, MongoDB, Mongoose
+
 Frontend: React.js
+
 Language: JavaScript
 
 Description:
+
 This API is built for booking hotel rooms. It handles all essential details, such as:
 
 Hotel details and photos
