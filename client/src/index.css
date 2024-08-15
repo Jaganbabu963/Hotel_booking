@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='name'],
+input[type='confirmPassword'],
+input[type='password'],
+input[type='email'] {
+  @apply w-full border px-2 py-2 rounded-xl my-1;
+}
+textarea {
+  height: 150px;
+}
+
+.primary {
+  @apply w-full text-white text-xl bg-blue-700 m-2 mx-auto p-1 rounded-xl;
+}
